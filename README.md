@@ -5,17 +5,9 @@ Growing Distributed Internet Infrastructure
 
 # Languages
 
-- [English](..)
-- [Simplified Chinese](..)
+- [English](https://github.com/VisionNetworkProject/whitepaper/blob/master/en/index.md)
+- [Simplified Chinese](https://github.com/VisionNetworkProject/whitepaper/blob/master/zh_cn/index.md)
 
----
+# Website
 
-# 远景网络
-
-## 分布式智能虚拟网络
-成长中的分布式互联网基础设施
-
-# 语言
-
-- [英语](..)
-- [简体中文](..)
+- [http://vision.network/](http://vision.network/)
