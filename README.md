@@ -6,7 +6,7 @@ Growing Distributed Internet Infrastructure
 # Languages
 
 - [English](https://github.com/VisionNetworkProject/whitepaper/blob/master/vision.network_whitepaper_en.md)
-- [Simplified Chinese](https://github.com/VisionNetworkProject/whitepaper/blob/master/vision.network_whitepaper_zh_cn.pdf)
+- [Simplified Chinese](https://github.com/VisionNetworkProject/whitepaper/raw/master/vision.network_whitepaper_zh_cn.pdf)
 
 # Website
 
