@@ -5,8 +5,8 @@ Growing Distributed Internet Infrastructure
 
 # Languages
 
-- [English](http://s3.vision.network.s3-website-ap-northeast-1.amazonaws.com/vision.network_whitepaper_en.pdf)
-- [Simplified Chinese](http://s3.vision.network.s3-website-ap-northeast-1.amazonaws.com/vision.network_whitepaper_zh_cn.pdf)
+- [English](http://s3.vision.network/whitepaper_en.pdf)
+- [Simplified Chinese](http://s3.vision.network/whitepaper_zh_cn.pdf)
 
 # Website
 
